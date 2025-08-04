@@ -27,6 +27,14 @@ Welcome to my Cybersecurity Portfolio! I'm passionate about building skills in S
 | Network-Based Attacks on Ubuntu using UFW     | <a href="https://github.com/Anith58/LogAnalysis-UFW-Ubuntu"> UFW Lab</a>||
 | Suricata-IDS-Setup-Guide                      | <a href="https://github.com/Anith58/Suricata-IDS-Setup-Guide"> Suricata Lab</a>|
 
+---
+
+### 🛡️ Security Tools
+
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-026280?&style=for-the-badge&logo=wazuh&logoColor=white" />
+</div>
 
 ---
 ### Network
