@@ -1,4 +1,3 @@
-
 # 👨‍💻 ANITH C | Aspiring SOC Analyst
 
 Welcome to my Cybersecurity Portfolio! I'm passionate about building skills in Security Operations, Incident Detection, Threat Hunting, and Blue Team practices. This portfolio showcases my hands-on projects, certifications, and learning journey.
@@ -35,9 +34,9 @@ Certificates folder: [📁 View Certificates](./certificates)
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Splunk-Enterprise-on-Ubuntu-Server            |  <a href="https://github.com/Anith58/Splunk-Enterprise-Installation-on-Ubuntu-Server"> Detection Lab</a> |
-| Wazuh-SIEM-Setup---Manager-Agent | <a href="https://github.com/Anith58/Wazuh-SIEM-Setup---Manager-Agent">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Splunk-Enterprise-on-Ubuntu-Server            |  <a href="https://github.com/Anith58/Splunk-Enterprise-Installation-on-Ubuntu-Server"> Splunk Lab</a> |
+| Wazuh-SIEM-Setup---Manager-Agent              | <a href="https://github.com/Anith58/Wazuh-SIEM-Setup---Manager-Agent"> Wazuh Lab</a>|
+| Network-Based Attacks on Ubuntu using UFW       | <a href="https://github.com/Anith58/LogAnalysis-UFW-Ubuntu"> Wazuh Lab</a>||
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
