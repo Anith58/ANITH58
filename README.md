@@ -4,22 +4,6 @@ Welcome to my Cybersecurity Portfolio! I'm passionate about building skills in S
 
 ---
 
-## 🔗 Social Links
-
-<a href="https://www.linkedin.com/in/anith2931/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/_.anith_58._/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="mailto:anithaustian78@gamil.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
----
-
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Splunk-Enterprise-on-Ubuntu-Server            | <a href="https://github.com/Anith58/Splunk-Enterprise-Installation-on-Ubuntu-Server"> Splunk Lab</a> |
@@ -43,6 +27,24 @@ Welcome to my Cybersecurity Portfolio! I'm passionate about building skills in S
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
+
+---
+
+## 🔗 Social Links
+
+<a href="https://www.linkedin.com/in/anith2931/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/_.anith_58._/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="mailto:anithaustian78@gamil.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+---
 
 ## 🚀 Goals
 
