@@ -35,7 +35,10 @@ Certificates folder: [📁 View Certificates](./certificates)
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | |<a href="https://github.com/Anith58/Splunk-Enterprise-Installation-on-Ubuntu-Server">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Anith58/Splunk-Enterprise-Installation-on-Ubuntu-Server" target="_blank">
+  <img src="https://img.shields.io/badge/-Detection%20Lab-000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
