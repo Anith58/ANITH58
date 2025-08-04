@@ -7,7 +7,7 @@ Welcome to my Cybersecurity Portfolio! I'm passionate about building skills in S
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Splunk-Enterprise-on-Ubuntu-Server            | <a href="https://github.com/Anith58/Splunk-Enterprise-Installation-on-Ubuntu-Server"> Splunk Lab</a> |
-| Wazuh-SIEM-Setup---Manager-Agent              | <a href="https://github.com/Anith58/Wazuh-SIEM-Setup---Manager-Agent"> Wazuh Lab</a>|
+| Wazuh-SIEM-Setup-Manager-Agent              | <a href="https://github.com/Anith58/Wazuh-SIEM-Setup---Manager-Agent"> Wazuh Lab</a>|
 | Network-Based Attacks on Ubuntu using UFW     | <a href="https://github.com/Anith58/LogAnalysis-UFW-Ubuntu"> UFW Lab</a>||
 | Suricata-IDS-Setup-Guide                      | <a href="https://github.com/Anith58/Suricata-IDS-Setup-Guide"> Suricata Lab</a>|
 
