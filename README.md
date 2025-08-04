@@ -66,7 +66,11 @@ Certificates folder: [📁 View Certificates](./certificates)
 
 ## 🏅 Certifications
 
-[<img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />](https://drive.google.com/file/d/18EIK8nucOmpL-K-hTqTn1Jnm4yz0X2-g/view)
+[<img src="https://img.shields.io/badge/-Cisco_Cert1-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />](https://drive.google.com/file/d/18EIK8nucOmpL-K-hTqTn1Jnm4yz0X2-g/view)
+
+[<img src="https://img.shields.io/badge/-Cisco_Cert2-005073?style=for-the-badge&logo=cisco&logoColor=white" />](https://drive.google.com/file/d/1lEUwYIRWvVzw_1UOmF69iGcKr9KJKZqE/view)
+
+[<img src="https://img.shields.io/badge/-DLK_Career_Cert-FF4500?style=for-the-badge&logo=googlescholar&logoColor=white" />](https://drive.google.com/file/d/1VvuhmU4HpxaYeXrTaYSVR15FmGmS9OIL/view)
 
 
 
