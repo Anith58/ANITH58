@@ -62,8 +62,12 @@ Certificates folder: [📁 View Certificates](./certificates)
 - Exploring tools like Wazuh, Zeek, Velociraptor, and pfSense
 
 ---
+## Certifications 
 
-<img src="https://img.shields.io/badge/-Cisco-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+## 🏅 Certifications
+
+[<img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />](https://drive.google.com/file/d/18EIK8nucOmpL-K-hTqTn1Jnm4yz0X2-g/view)
+
 
 
 > 🔒 *"Security is a mindset, not just a skill."*  
