@@ -13,7 +13,6 @@ Welcome to my Cybersecurity Portfolio! I'm passionate about building skills in S
 
 ---
 ## Tools
----
 ### 🛡️ Security Tools
 
 <div>
