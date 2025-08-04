@@ -51,7 +51,6 @@ Welcome to my Cybersecurity Portfolio! I'm passionate about building skills in S
 - Exploring tools like Wazuh, Zeek, Velociraptor, and pfSense
 
 ---
-## Certifications 
 
 ## 🏅 Certifications
 
