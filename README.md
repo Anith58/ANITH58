@@ -33,24 +33,16 @@ Certificates folder: [📁 View Certificates](./certificates)
 
 ---
 
-## 🛡️ Projects
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-### 1. 🖥️ **SOC Home Lab - Blue Team Setup**
-- Configured SIEM using Splunk on Ubuntu
-- Forwarded Windows logs via Universal Forwarder
-- Integrated Sysmon for endpoint visibility
-- Parsed `zeek_conn_logs` for network monitoring
 
-📁 [View Project](./projects/soc-lab) | 🖼️ Screenshots included
-
-### 2. 🧱 **Active Directory Setup + Endpoint Logging**
-- Created a full AD environment
-- Integrated agents with Splunk
-- Configured GPOs and security baselines
-
-📁 [View Project](./projects/active-directory)
-
----
 
 ## 🧪 Labs & Writeups
 
