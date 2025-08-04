@@ -34,12 +34,10 @@ Certificates folder: [📁 View Certificates](./certificates)
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Splunk-Enterprise-on-Ubuntu-Server            |  <a href="https://github.com/Anith58/Splunk-Enterprise-Installation-on-Ubuntu-Server"> Splunk Lab</a> |
+| Splunk-Enterprise-on-Ubuntu-Server            | <a href="https://github.com/Anith58/Splunk-Enterprise-Installation-on-Ubuntu-Server"> Splunk Lab</a> |
 | Wazuh-SIEM-Setup---Manager-Agent              | <a href="https://github.com/Anith58/Wazuh-SIEM-Setup---Manager-Agent"> Wazuh Lab</a>|
-| Network-Based Attacks on Ubuntu using UFW       | <a href="https://github.com/Anith58/LogAnalysis-UFW-Ubuntu"> Wazuh Lab</a>||
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Network-Based Attacks on Ubuntu using UFW     | <a href="https://github.com/Anith58/LogAnalysis-UFW-Ubuntu"> UFW Lab</a>||
+| Suricata-IDS-Setup-Guide                      | <a href="https://github.com/Anith58/Suricata-IDS-Setup-Guide"> Suricata Lab</a>|
 
 
 
