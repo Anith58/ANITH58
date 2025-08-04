@@ -20,18 +20,6 @@ Welcome to my Cybersecurity Portfolio! I'm passionate about building skills in S
 
 ---
 
-## 📚 Certifications
-
-| Title | Issuer | Date |
-|-------|--------|------|
-| Google Cybersecurity Certificate | Coursera/Google | July 2025 |
-| Splunk Fundamentals 1 | Splunk | Aug 2025 |
-| *Add more...* | | |
-
-Certificates folder: [📁 View Certificates](./certificates)
-
----
-
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Splunk-Enterprise-on-Ubuntu-Server            | <a href="https://github.com/Anith58/Splunk-Enterprise-Installation-on-Ubuntu-Server"> Splunk Lab</a> |
@@ -39,13 +27,6 @@ Certificates folder: [📁 View Certificates](./certificates)
 | Network-Based Attacks on Ubuntu using UFW     | <a href="https://github.com/Anith58/LogAnalysis-UFW-Ubuntu"> UFW Lab</a>||
 | Suricata-IDS-Setup-Guide                      | <a href="https://github.com/Anith58/Suricata-IDS-Setup-Guide"> Suricata Lab</a>|
 
-
-
-## 🧪 Labs & Writeups
-
-- [How I Built My First SOC Lab](./labs/soc-first-lab.md)
-- [Splunk Troubleshooting Guide](./labs/splunk-troubleshoot.md)
-- [Blue Team Tool Usage & Mistakes](./labs/blueteam-mistakes.md)
 
 ---
 ### Network
@@ -75,7 +56,6 @@ Certificates folder: [📁 View Certificates](./certificates)
 [<img src="https://img.shields.io/badge/-Forage_Cybersecurity Job Simulation-3b82f6?style=for-the-badge&logo=forage&logoColor=white" />](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_MgdN9PcRM6jDHGd7y_1753169202952_completion_certificate.pdf)
 
 [<img src="https://img.shields.io/badge/-Credly_Introduction to Cybersecurity-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />](https://www.credly.com/badges/68c951b7-75f6-41af-9e2c-c2431f20605a/linked_in_profile)
-
 
 
 
