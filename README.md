@@ -63,5 +63,8 @@ Certificates folder: [📁 View Certificates](./certificates)
 
 ---
 
+<img src="https://img.shields.io/badge/-Cisco-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+
+
 > 🔒 *"Security is a mindset, not just a skill."*  
 Thanks for visiting my portfolio!
