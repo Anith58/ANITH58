@@ -13,14 +13,13 @@ Welcome to my Cybersecurity Portfolio! I'm passionate about building skills in S
 
 ---
 ## Tools
-### 🛡️ SIEM
+###  SIEM
 
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-026280?&style=for-the-badge&logo=wazuh&logoColor=white" />
 </div>
 
----
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
