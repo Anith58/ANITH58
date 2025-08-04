@@ -74,6 +74,9 @@ Certificates folder: [📁 View Certificates](./certificates)
 
 [<img src="https://img.shields.io/badge/-Forage_Cybersecurity Job Simulation-3b82f6?style=for-the-badge&logo=forage&logoColor=white" />](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_MgdN9PcRM6jDHGd7y_1753169202952_completion_certificate.pdf)
 
+[<img src="https://img.shields.io/badge/-Credly_Introduction to Cybersecurity-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />](https://www.credly.com/badges/68c951b7-75f6-41af-9e2c-c2431f20605a/linked_in_profile)
+
+
 
 
 > 🔒 *"Security is a mindset, not just a skill."*  
