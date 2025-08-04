@@ -1,4 +1,4 @@
-# 👨‍💻 ANITH C | Aspiring SOC Analyst
+# ANITH C 👨‍💻 | Aspiring SOC Analyst
 
 Welcome to my Cybersecurity Portfolio! I'm passionate about building skills in Security Operations, Incident Detection, Threat Hunting, and Blue Team practices. This portfolio showcases my hands-on projects, certifications, and learning journey.
 
