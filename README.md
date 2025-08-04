@@ -36,7 +36,7 @@ Certificates folder: [📁 View Certificates](./certificates)
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Splunk-Enterprise-on-Ubuntu-Server            |  <a href="https://github.com/Anith58/Splunk-Enterprise-Installation-on-Ubuntu-Server"> Detection Lab</a> |
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Wazuh-SIEM-Setup---Manager-Agent | <a href="https://github.com/Anith58/Wazuh-SIEM-Setup---Manager-Agent">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
