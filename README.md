@@ -13,7 +13,7 @@ Welcome to my Cybersecurity Portfolio! I'm passionate about building skills in S
 
 ---
 ## Tools
-### 🛡️ Security Tools
+### 🛡️ SIEM
 
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
